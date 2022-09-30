@@ -30,12 +30,6 @@ All figures will be saved as EPS format in the subfolder and all tables will be 
 This script generates the estimates of the regression parameters and the conditional AIC in a "result/XXX" subfolder where the output folder is automatically created.
 This script also implements the backward stepwise variable selection based on the conditional AIC and the bootstrap procedure to obtain the bootstrap confidence intervals of the regression parameters and the log-odds-ratios.
 
-## "data" Folder
-
-This folder contains the real data imported in the script **data-application.R**.
-**(All of the contents of this folder were deleted due to the copyrights.)**
-
-
 ## "result" Folder
 
 This folder contains the result imported in the scripts **figure-table-generation.R**.
